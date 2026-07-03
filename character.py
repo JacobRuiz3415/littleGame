@@ -6,6 +6,9 @@ class Character:
     def displayInfo(self):
         print(f"HP: {self.hp}, \ Name{ self.name}")
 
+    def attack(self, other, damage):
+        print(f'{self.name} {other.name} {damage}')
+
 
 class player(Character):
     def __init__(self, hp, name):
