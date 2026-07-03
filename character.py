@@ -4,7 +4,7 @@ class Character:
         self.hp = hp
 
     def displayInfo(self):
-        print(f"HP: {self.hp, self.name}")
+        print(f"HP: {self.hp}, \ Name{ self.name}")
 
 
 class player(Character):

@@ -1,3 +1,3 @@
 trying out new things
-a rpg game program
-It is good practice 
+a simple rpg game program
+It is good practice with class and objects
